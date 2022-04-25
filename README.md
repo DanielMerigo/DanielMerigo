@@ -5,7 +5,10 @@ Hi 👋 My name is Daniel Merigo
 Back-end developer
 ------------------
 
-\-Currently studying to become a great back-end developer; -In constant evolution; -My personal projects will be here;
+\
+-Currently studying to become a great back-end developer;
+-In constant evolution; 
+-My personal projects will be here;
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [merigodaniel@outlook.com](mailto:merigodaniel@outlook.com )
