@@ -5,7 +5,6 @@ Hi 👋 My name is Daniel Merigo
 Back-end developer
 ------------------
 
-\
 * Currently studying to become a great back-end developer;
 * In constant evolution; 
 * My personal projects will be here;
