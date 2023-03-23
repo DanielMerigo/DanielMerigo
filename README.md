@@ -11,7 +11,6 @@ Back-end developer
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [merigodaniel@outlook.com](mailto:merigodaniel@outlook.com )
-* 🧠  I'm learning JS, HTML, PostgreSQL
 
 ### Skills
 
