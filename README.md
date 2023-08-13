@@ -1,9 +1,9 @@
 
-Hi 👋 My name is Daniel Merigo
-==============================
+Daniel Merigo
+=============
 
-Back-end developer
-------------------
+Web Developer
+-------------
 
 * Currently studying to become a great back-end developer;
 * In constant evolution; 
