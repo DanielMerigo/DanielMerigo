@@ -2,7 +2,7 @@
 Daniel Merigo
 =============
 
-Web Developer
+Software Developer
 -------------
 
 * Currently studying to become a great back-end developer;
