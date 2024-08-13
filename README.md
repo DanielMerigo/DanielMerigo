@@ -5,7 +5,6 @@ Daniel Merigo
 Software Developer
 -------------
 
-* Currently studying to become a great back-end developer;
 * In constant evolution; 
 
 * 🌍  I'm based in Brazil
